@@ -1,2 +1,2 @@
-# megabox.github.io
-mega!
+# megabox
+beepbox: the modular version
